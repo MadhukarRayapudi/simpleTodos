@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.app-bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.todos-bg-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todos-heading {
+  font-family: roboto;
+  font-size: 40px;
+  color: #ffc2a0;
+  font-weight: bold;
+}
